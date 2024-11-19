@@ -15,7 +15,7 @@
 
 <p align="center">
   https://petopagi.me
-</p>p>
+</p>
 <br>
 
 <p align="center">
