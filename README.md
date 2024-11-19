@@ -13,8 +13,9 @@
     <img src="https://skillicons.dev/icons?i=py,nodejs,html,css"/>
 </p>
 
-https://petopagi.me
-
+<p align="center">
+  https://petopagi.me
+</p>p>
 <br>
 
 <p align="center">
